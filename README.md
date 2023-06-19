@@ -1,5 +1,17 @@
 # Module7 Assignment
 
-![Screenshot_20230619_210835](https://github.com/HasibuliT/Module7Assignment/assets/66546794/d46d30e1-bfa6-493d-b05a-f1b0ca4572f4)
-![Screenshot_20230619_210829](https://github.com/HasibuliT/Module7Assignment/assets/66546794/629cbbab-23ef-425e-8c28-2739384bb69b)
-![Screenshot_20230619_210759](https://github.com/HasibuliT/Module7Assignment/assets/66546794/ed78a15c-0f84-4af3-82d5-21fdd9fbeaad)
+![Screenshot_20230619_212247](https://github.com/HasibuliT/Module7Assignment/assets/66546794/4e3ac284-b6c2-43ee-8c3b-08f82c2a4162)
+![Screenshot_20230619_212242](https://github.com/HasibuliT/Module7Assignment/assets/66546794/4b14691b-6ded-49ce-a48b-f6ee1962f3c5)
+![Screenshot_20230619_212236](https://github.com/HasibuliT/Module7Assignment/assets/66546794/1be0267d-77c5-434e-bfc6-f8591310779b)
+
+<p align="center">
+  <img src="https://github.com/HasibuliT/Module7Assignment/assets/66546794/4e3ac284-b6c2-43ee-8c3b-08f82c2a4162" width="400" height="720"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/HasibuliT/Module7Assignment/assets/66546794/4b14691b-6ded-49ce-a48b-f6ee1962f3c5" width="400" height="720"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/HasibuliT/Module7Assignment/assets/66546794/1be0267d-77c5-434e-bfc6-f8591310779b" width="400" height="720"/>
+</p>
